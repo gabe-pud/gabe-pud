@@ -8,8 +8,7 @@ I hope you find something interesting
 
 <h2> Socials </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=cc00ff)
-](https://www.linkedin.com/in/gabriel-garcia-santana/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=cc00ff)](https://www.linkedin.com/in/gabriel-garcia-santana/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=cc00ff)](mailto:gabrielgarciasantana3@gmail.com)
 
 <h2> GitHub Stats </h2>
